@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+    background: rgb(94, 94, 94); 
+}
+
+h1 {
+    color: #7da193;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.row {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#valor {
+    font-size: 36px;
+    color: #131314;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#incrementar {
+    background-color: #28a745;
+    color: #fff;
+}
+
+#decremento {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+#resetear {
+    background-color: #28a745;
+    color: #fff;
+}
